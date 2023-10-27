@@ -1,0 +1,5 @@
+package syndr
+
+func main() {
+
+}
